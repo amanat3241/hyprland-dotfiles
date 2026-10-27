@@ -1,0 +1,1 @@
+/home/ghost/dotfiles/.config/hypr/hyprland.lua
